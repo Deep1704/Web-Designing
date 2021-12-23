@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	height: 100%;
+	width: 100%;
+}
+.logo{
+	width: 20%;
+	float: left;
+	padding-top: 20px;
+	font-size: 30px;
+}
+.menu{
+	font-size: 30px;
+	padding-top: 20px;
+	text-align: right;
+	width: 80%;
+	float: left;
+	padding-right: 50px;
+	font-size: 10px;
+	padding-left: 80px;
+}
+.menu a{
+	text-decoration: none;
+	padding: 20px;
+	border-radius: 100px;
+	margin-top: 80%;
+}
+.header img{
+	max-height:100% ;
+	max-width: 100%;
+}
+
+
+
